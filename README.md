@@ -21,4 +21,4 @@ This project contains the following tools:
 
 Implement global status management concepts of a SPA application using tools alternatively to Redux and Context API.
 
-### by Paulo Spiguel
+### by Paulo Spiguel 💜
